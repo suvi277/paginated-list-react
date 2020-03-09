@@ -1,2 +1,0 @@
-export const REQUEST_BOOKS = "REQUEST_BOOKS";
-export const BOOKS_LOADED = "BOOKS_LOADED";
