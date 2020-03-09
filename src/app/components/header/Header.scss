@@ -1,0 +1,10 @@
+@import "../../_shared/styles/variables";
+
+header {
+    padding: 20px 0;
+    background-color: $primary;
+
+    h4 {
+        margin: 0;
+    }
+}
