@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/paginated-list-react/static/css/main.dd644f71.chunk.css",
-    "main.js": "/paginated-list-react/static/js/main.922dfc89.chunk.js",
-    "main.js.map": "/paginated-list-react/static/js/main.922dfc89.chunk.js.map",
+    "main.js": "/paginated-list-react/static/js/main.977fcdc1.chunk.js",
+    "main.js.map": "/paginated-list-react/static/js/main.977fcdc1.chunk.js.map",
     "runtime-main.js": "/paginated-list-react/static/js/runtime-main.1291dbd0.js",
     "runtime-main.js.map": "/paginated-list-react/static/js/runtime-main.1291dbd0.js.map",
-    "static/js/2.d0b25d51.chunk.js": "/paginated-list-react/static/js/2.d0b25d51.chunk.js",
-    "static/js/2.d0b25d51.chunk.js.map": "/paginated-list-react/static/js/2.d0b25d51.chunk.js.map",
+    "static/js/2.f03a02bb.chunk.js": "/paginated-list-react/static/js/2.f03a02bb.chunk.js",
+    "static/js/2.f03a02bb.chunk.js.map": "/paginated-list-react/static/js/2.f03a02bb.chunk.js.map",
     "index.html": "/paginated-list-react/index.html",
-    "precache-manifest.82efca4da149b05b259df50d14d2c361.js": "/paginated-list-react/precache-manifest.82efca4da149b05b259df50d14d2c361.js",
+    "precache-manifest.6906c055e8c747b51a59fcb8122f15d1.js": "/paginated-list-react/precache-manifest.6906c055e8c747b51a59fcb8122f15d1.js",
     "service-worker.js": "/paginated-list-react/service-worker.js",
     "static/css/main.dd644f71.chunk.css.map": "/paginated-list-react/static/css/main.dd644f71.chunk.css.map",
-    "static/js/2.d0b25d51.chunk.js.LICENSE.txt": "/paginated-list-react/static/js/2.d0b25d51.chunk.js.LICENSE.txt"
+    "static/js/2.f03a02bb.chunk.js.LICENSE.txt": "/paginated-list-react/static/js/2.f03a02bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1291dbd0.js",
-    "static/js/2.d0b25d51.chunk.js",
+    "static/js/2.f03a02bb.chunk.js",
     "static/css/main.dd644f71.chunk.css",
-    "static/js/main.922dfc89.chunk.js"
+    "static/js/main.977fcdc1.chunk.js"
   ]
 }
