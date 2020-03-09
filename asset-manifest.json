@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ontrack-test/static/css/main.dd644f71.chunk.css",
-    "main.js": "/ontrack-test/static/js/main.922dfc89.chunk.js",
-    "main.js.map": "/ontrack-test/static/js/main.922dfc89.chunk.js.map",
-    "runtime-main.js": "/ontrack-test/static/js/runtime-main.8fa452cd.js",
-    "runtime-main.js.map": "/ontrack-test/static/js/runtime-main.8fa452cd.js.map",
-    "static/js/2.d0b25d51.chunk.js": "/ontrack-test/static/js/2.d0b25d51.chunk.js",
-    "static/js/2.d0b25d51.chunk.js.map": "/ontrack-test/static/js/2.d0b25d51.chunk.js.map",
-    "index.html": "/ontrack-test/index.html",
-    "precache-manifest.277e806e44992c1d268011fec6d098c9.js": "/ontrack-test/precache-manifest.277e806e44992c1d268011fec6d098c9.js",
-    "service-worker.js": "/ontrack-test/service-worker.js",
-    "static/css/main.dd644f71.chunk.css.map": "/ontrack-test/static/css/main.dd644f71.chunk.css.map",
-    "static/js/2.d0b25d51.chunk.js.LICENSE.txt": "/ontrack-test/static/js/2.d0b25d51.chunk.js.LICENSE.txt"
+    "main.css": "/paginated-list-react/static/css/main.dd644f71.chunk.css",
+    "main.js": "/paginated-list-react/static/js/main.922dfc89.chunk.js",
+    "main.js.map": "/paginated-list-react/static/js/main.922dfc89.chunk.js.map",
+    "runtime-main.js": "/paginated-list-react/static/js/runtime-main.1291dbd0.js",
+    "runtime-main.js.map": "/paginated-list-react/static/js/runtime-main.1291dbd0.js.map",
+    "static/js/2.d0b25d51.chunk.js": "/paginated-list-react/static/js/2.d0b25d51.chunk.js",
+    "static/js/2.d0b25d51.chunk.js.map": "/paginated-list-react/static/js/2.d0b25d51.chunk.js.map",
+    "index.html": "/paginated-list-react/index.html",
+    "precache-manifest.82efca4da149b05b259df50d14d2c361.js": "/paginated-list-react/precache-manifest.82efca4da149b05b259df50d14d2c361.js",
+    "service-worker.js": "/paginated-list-react/service-worker.js",
+    "static/css/main.dd644f71.chunk.css.map": "/paginated-list-react/static/css/main.dd644f71.chunk.css.map",
+    "static/js/2.d0b25d51.chunk.js.LICENSE.txt": "/paginated-list-react/static/js/2.d0b25d51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fa452cd.js",
+    "static/js/runtime-main.1291dbd0.js",
     "static/js/2.d0b25d51.chunk.js",
     "static/css/main.dd644f71.chunk.css",
     "static/js/main.922dfc89.chunk.js"
