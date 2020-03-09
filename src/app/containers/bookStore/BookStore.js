@@ -13,8 +13,6 @@ class BookStore extends Component {
 	componentDidMount() {
 		let { pageId } = this.props;
 		pageId = pageId ? Number(pageId) : 1;
-		// const URLQStrings = new URLSearchParams(this.props.search);
-		// const code: string = URLQStrings.has('code') ? URLQStrings.get('code') : '';
 		this.loadPaginatedList(pageId);
 	}
 
